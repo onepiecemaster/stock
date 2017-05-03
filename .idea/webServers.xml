@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e70a984-9d9f-4450-83db-60e4d252b12e" name="mitsustock" url="http://www.mitsubnt.com">
+        <fileTransfer host="188.166.220.5" port="21" rootFolder="/public_html/stock2" password="dfc7dfc3dfdedfd9dfdfdf98df9fdf98df92df98df9fdf98df93df8e" username="mitsubnt@mitsubnt.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

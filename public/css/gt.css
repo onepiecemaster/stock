@@ -1,0 +1,82 @@
+.title {
+	color: #FFF;
+	font-family: Tahoma, "ms sans Serif";
+	font-size: 20px;
+	height: 40px;
+	text-align: center;
+	background-color: FF3333;
+	font-weight: bold;
+}
+.platefont {
+	color: #FFF;
+	font-family: Tahoma, "ms sans Serif";
+	font-size: 12px;
+	height: 30px;
+	text-align: center;
+	background-color: FF3333;
+	font-weight: bold;
+}
+.number a:link {
+	font-weight:bold;
+	color: #000000;
+	text-decoration:none;} /* unvisited link สีแดง*/
+.number a:visited {font-weight:bold;color: #000000;text-decoration:none;} /* visited link สีเขียว*/ .number a:hover {font-weight:bold;color: #FF0000;text-decoration:none;}
+.textbox_blue {
+font-family: Tahoma, "ms sans Serif";
+font-size:16px;
+text-align:center;
+color:#55555;
+background-color:#FAFCD1;
+border:1px solid #ffcc99; 
+padding-top:auto;
+margin-top:5px;
+}
+.textselect {
+font-family: Tahoma, "ms sans Serif";
+font-size:16px;
+text-align:center;
+color:#55555;
+background-color:#FAFCD1;
+border:1px solid #ffcc99; 
+margin-top:5px;
+margin-bottom:auto;
+}
+.total{
+	font-family: Tahoma, "ms sans Serif";
+	font-size:24px;
+	text-align:center;
+}
+.stockdetail{
+	margin-top:auto;
+	margin-bottom:auto;
+	padding-top:auto;
+	padding-bottom:auto;
+}
+/* CSS Document */
+.Head2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	color: #000;
+
+}
+.Head3 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #000;
+	background-color: #FFFFFF;
+}
+.Head4 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #000;
+	background-color: #ffcc99;
+}
+
+.Footer {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	background-color: #000;
+	text-align:center;
+}
